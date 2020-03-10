@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-splash-screen] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4fd03d86e20d599acceb48fca95dead9/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/macbook/.gradle/caches/transforms-2/files-2.1/912291eebb8532ed1fd13527dbf2a55e/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d90e0314208c2aa13c4fb88fb106d545/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8464404dd8f9c4f6e520da307e779e70/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c980e469be758c55c2417c8c79c21dc6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/75b6bd1cc06100d33f6986c4e2f6d95a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7666fd7064385acd91009224746f4c1c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fa871050457ba8242bdee6917a137788/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/632a1473114324ab558d234adaddf80a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/74b8d0e0aae40832575128564c7838a3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d241a4e038797d7a688d6414113280a8/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4367a8e472a08a090bdb43dbc2dfad42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/02ad3530871c41341ebb4325a2a3fc1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5e82bfdd55402fc7410869d1efb67ed6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b1f63e44bc67ade05cc8e459611b9e14/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e46a36a369149609c8a6fef482974fd5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/774971ac175826ec6538d0ef778bfb0a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/82851aac95af6f2ddc02644764745ac8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ed83196454e043a8c3b53febdaafa42d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c17411b7ac948e7d7191e81b5591435a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d989312e2b81c326902cc819d0e5f546/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f7a477d064a0f08ddc797926dfe63ed0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c5ed2f11493d3c59cfdf8d56bd86f3f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f663c4875ff6da608172d5efa27364fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/86ff846a6ae3041ee838153b9097e39f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fe7281644b33da17cdd9b13d83970db9/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b10825a4f95afab32bbf26e0fad445a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/13352d9c3e5676df2d1fa51206528912/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/bb88701049dfa6737fc3cb06a33c9381/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5fec17d56d9ee031adc5f3faadf51461/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a5f17aebba72c0caeed72e4110de7174/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/531bb7ab2c27fbf70665b773fe1cae0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6c1bac4c8f16b976500f25d40a5d1ca4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ca1f741c0f030aa96e2b6ce998f9f372/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/1e06342806f0d5b040bc32c5c5dfa1d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4e8e964824eea88d8ae0030674ea9cd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7e0f6dc86a8bc12b0829d444dfb90ada/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-splash-screen] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4fd03d86e20d599acceb48fca95dead9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4fd03d86e20d599acceb48fca95dead9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d241a4e038797d7a688d6414113280a8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d241a4e038797d7a688d6414113280a8/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/86ff846a6ae3041ee838153b9097e39f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/86ff846a6ae3041ee838153b9097e39f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fe7281644b33da17cdd9b13d83970db9/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fe7281644b33da17cdd9b13d83970db9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/86ff846a6ae3041ee838153b9097e39f/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.topcoverletters2020.MainActivity
+ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-splash-screen] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4fd03d86e20d599acceb48fca95dead9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4fd03d86e20d599acceb48fca95dead9/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/macbook/.gradle/caches/transforms-2/files-2.1/912291eebb8532ed1fd13527dbf2a55e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/macbook/.gradle/caches/transforms-2/files-2.1/912291eebb8532ed1fd13527dbf2a55e/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/macbook/Documents/Clients/TopCoverLetters2020/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d90e0314208c2aa13c4fb88fb106d545/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d90e0314208c2aa13c4fb88fb106d545/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8464404dd8f9c4f6e520da307e779e70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8464404dd8f9c4f6e520da307e779e70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c980e469be758c55c2417c8c79c21dc6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c980e469be758c55c2417c8c79c21dc6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/75b6bd1cc06100d33f6986c4e2f6d95a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/75b6bd1cc06100d33f6986c4e2f6d95a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7666fd7064385acd91009224746f4c1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7666fd7064385acd91009224746f4c1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fa871050457ba8242bdee6917a137788/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fa871050457ba8242bdee6917a137788/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/632a1473114324ab558d234adaddf80a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/632a1473114324ab558d234adaddf80a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/74b8d0e0aae40832575128564c7838a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/74b8d0e0aae40832575128564c7838a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d241a4e038797d7a688d6414113280a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d241a4e038797d7a688d6414113280a8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4367a8e472a08a090bdb43dbc2dfad42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4367a8e472a08a090bdb43dbc2dfad42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/02ad3530871c41341ebb4325a2a3fc1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/02ad3530871c41341ebb4325a2a3fc1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5e82bfdd55402fc7410869d1efb67ed6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5e82bfdd55402fc7410869d1efb67ed6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b1f63e44bc67ade05cc8e459611b9e14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b1f63e44bc67ade05cc8e459611b9e14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e46a36a369149609c8a6fef482974fd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e46a36a369149609c8a6fef482974fd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/774971ac175826ec6538d0ef778bfb0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/774971ac175826ec6538d0ef778bfb0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/82851aac95af6f2ddc02644764745ac8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/82851aac95af6f2ddc02644764745ac8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ed83196454e043a8c3b53febdaafa42d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ed83196454e043a8c3b53febdaafa42d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c17411b7ac948e7d7191e81b5591435a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c17411b7ac948e7d7191e81b5591435a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d989312e2b81c326902cc819d0e5f546/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d989312e2b81c326902cc819d0e5f546/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f7a477d064a0f08ddc797926dfe63ed0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f7a477d064a0f08ddc797926dfe63ed0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c5ed2f11493d3c59cfdf8d56bd86f3f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c5ed2f11493d3c59cfdf8d56bd86f3f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f663c4875ff6da608172d5efa27364fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f663c4875ff6da608172d5efa27364fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/86ff846a6ae3041ee838153b9097e39f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/86ff846a6ae3041ee838153b9097e39f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fe7281644b33da17cdd9b13d83970db9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fe7281644b33da17cdd9b13d83970db9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b10825a4f95afab32bbf26e0fad445a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b10825a4f95afab32bbf26e0fad445a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/13352d9c3e5676df2d1fa51206528912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/13352d9c3e5676df2d1fa51206528912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/bb88701049dfa6737fc3cb06a33c9381/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/bb88701049dfa6737fc3cb06a33c9381/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5fec17d56d9ee031adc5f3faadf51461/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5fec17d56d9ee031adc5f3faadf51461/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a5f17aebba72c0caeed72e4110de7174/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a5f17aebba72c0caeed72e4110de7174/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/531bb7ab2c27fbf70665b773fe1cae0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/531bb7ab2c27fbf70665b773fe1cae0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6c1bac4c8f16b976500f25d40a5d1ca4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6c1bac4c8f16b976500f25d40a5d1ca4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ca1f741c0f030aa96e2b6ce998f9f372/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ca1f741c0f030aa96e2b6ce998f9f372/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/1e06342806f0d5b040bc32c5c5dfa1d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/1e06342806f0d5b040bc32c5c5dfa1d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4e8e964824eea88d8ae0030674ea9cd4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4e8e964824eea88d8ae0030674ea9cd4/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7e0f6dc86a8bc12b0829d444dfb90ada/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7e0f6dc86a8bc12b0829d444dfb90ada/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/src/debug/AndroidManifest.xml:5:22-75

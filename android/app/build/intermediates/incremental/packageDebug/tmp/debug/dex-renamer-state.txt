@@ -1,0 +1,4 @@
+#Sun Mar 08 12:56:20 PKT 2020
+base.0=/Users/macbook/Documents/Clients/TopCoverLetters2020/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
